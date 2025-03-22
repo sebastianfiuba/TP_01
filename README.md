@@ -44,3 +44,5 @@ UART: Se utiliza para enviar información de estado del sistema
 PWM: Se utiliza para controlar el servomotor
 
 Diagrama en bloques:
+![Copy of Blank diagram](https://github.com/user-attachments/assets/550db6d4-328b-4cfd-a40f-02f729abae89)
+
