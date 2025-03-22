@@ -30,9 +30,13 @@ Plataforma de desarrollo: NUCLEO-F429ZI
 Periféricos a utilizar:
 
 DIGITAL IN 1: Controla el que la cerradura este abierta por 10 segundos
+
 DIGITAL IN 2: Controla que la cerradura este cerrada
+
 LED 1: Se enciende si la cerradura está cerrada
+
 LED 2: Se enciende si la cerradura está apagada si
+
 ANALOG IN 1: Se utiliza para leer la sensibilidad del sensor 
 
 DIGITAL OUT 1: Controla al sensor
