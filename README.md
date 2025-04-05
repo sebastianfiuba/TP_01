@@ -47,9 +47,7 @@ UART: Se utiliza para enviar información de estado del sistema
 
 
 Diagrama en bloques del sistema:
-![Copy of Blank diagram](https://github.com/user-attachments/assets/550db6d4-328b-4cfd-a40f-02f729abae89)
+![Diagrama 1](images/Sistema.png) 
 
 Diagrama en bloques del programa:
-
-
-
+![Diagrama 2](images/Programa.png)
